@@ -3,9 +3,11 @@ VAE [1] implemented in PyTorch trained on MNIST.
 
 ## Installation
 
-> conda create -y -n vae python==3.7 nb_conda
-> conda activate vae
-> pip install -r requirements.txt
+```bash
+conda create -y -n vae python==3.7 nb_conda
+conda activate vae
+pip install -r requirements.txt
+```
 
 ## References
 
